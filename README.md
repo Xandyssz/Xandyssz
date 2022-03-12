@@ -1,10 +1,10 @@
-## Oiii eu sou ateste, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou Xandy
 
 <div align="center">
   <a href="https://github.com/Xandyssz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xandyssz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandyssz&layout=compact&langs_count=7&theme=omni"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=omni"/>
+    </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Xandy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Xandy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
