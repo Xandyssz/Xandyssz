@@ -1,4 +1,4 @@
-## Oiii eu sou Xandy
+## Xandy
 
 <div align="center">
   <a href="https://github.com/Xandyssz">
